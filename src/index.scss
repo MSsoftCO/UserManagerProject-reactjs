@@ -1,0 +1,29 @@
+$font-family-sans-serif: vazir, tahoma, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen";
+
+$body-bg: #ececec;
+
+$primary: #3f51b5;
+$secondary: #78909C;
+$success: #26a69a;
+$info: #2196F3;
+$warning: #FF9800;
+$danger: #F44336;
+
+$border-radius: 1rem;
+$border-radius-lg: 1rem;
+$border-radius-sm: 1rem;
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+$rt-font-family: $font-family-sans-serif;
+$rt-color-info: $info;
+$rt-color-success: $success;
+$rt-color-warning: $warning;
+$rt-color-error: $danger;
+
+@import '~react-toastify/scss/main.scss';
+
+html[dir='rtl'] > body {
+  text-align: right !important;
+}
+

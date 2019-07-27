@@ -1,0 +1,27 @@
+
+    .modal-header {
+      .close {
+        padding: 0 1rem;
+        margin: auto 0 0 0;
+      }
+    }
+    .roles-wrapper {
+      display: flex;
+      flex-direction: column;
+      margin-right: 1rem;
+      .roles {
+        border: 1px solid #ececec;
+        border-radius: 1rem;
+        padding: .5rem 1rem;
+        .custom-control-label {
+          margin-right: 1rem;
+          &::before, &::after {
+            right: -1.4rem;
+          }
+
+        }
+      }
+
+    }
+
+
