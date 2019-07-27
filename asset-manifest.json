@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/UserManagerProject-reactjs/static/css/main.0c1a600d.chunk.css",
+    "main.js": "/UserManagerProject-reactjs/static/js/main.d5549cec.chunk.js",
+    "main.js.map": "/UserManagerProject-reactjs/static/js/main.d5549cec.chunk.js.map",
+    "runtime~main.js": "/UserManagerProject-reactjs/static/js/runtime~main.61b2ed70.js",
+    "runtime~main.js.map": "/UserManagerProject-reactjs/static/js/runtime~main.61b2ed70.js.map",
+    "static/css/2.39cab565.chunk.css": "/UserManagerProject-reactjs/static/css/2.39cab565.chunk.css",
+    "static/js/2.7a511b50.chunk.js": "/UserManagerProject-reactjs/static/js/2.7a511b50.chunk.js",
+    "static/js/2.7a511b50.chunk.js.map": "/UserManagerProject-reactjs/static/js/2.7a511b50.chunk.js.map",
+    "index.html": "/UserManagerProject-reactjs/index.html",
+    "precache-manifest.deb043de84b8e7ee77da620ad3e10604.js": "/UserManagerProject-reactjs/precache-manifest.deb043de84b8e7ee77da620ad3e10604.js",
+    "service-worker.js": "/UserManagerProject-reactjs/service-worker.js",
+    "static/css/2.39cab565.chunk.css.map": "/UserManagerProject-reactjs/static/css/2.39cab565.chunk.css.map",
+    "static/css/main.0c1a600d.chunk.css.map": "/UserManagerProject-reactjs/static/css/main.0c1a600d.chunk.css.map",
+    "static/media/font-face.css": "/UserManagerProject-reactjs/static/media/Vazir.c353f7ef.woff2",
+    "static/media/font-awesome.css": "/UserManagerProject-reactjs/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
